@@ -1,10 +1,10 @@
 Olá eu sou gabriel \ Hi i'm gabriel 👋
 
-Sou desenvolvedor Web e tenho conhecimento nessas techs:
-⚡ Laravel,
-⚡ JAVA,
-⚡ React Native,
-⚡ NodeJs,
+Sou desenvolvedor Web e tenho conhecimento nessas techs:\n
+⚡ Laravel,\n
+⚡ JAVA,\n
+⚡ React Native,\n
+⚡ NodeJs,<br>
 ⚡ Vue.js
 ⚡ Bootstrap & Css
 
