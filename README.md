@@ -1,11 +1,11 @@
-Olá eu sou gabriel \ Hi i'm gabriel 👋
-
-Sou desenvolvedor Web e tenho conhecimento nessas techs:\n
-⚡ Laravel,\n
-⚡ JAVA,\n
-⚡ React Native,\n
+Olá eu sou gabriel \ Hi i'm gabriel 👋<br>
+<br>
+Sou desenvolvedor Web e tenho conhecimento nessas techs:<br>
+⚡ Laravel,<br>
+⚡ JAVA,<br>
+⚡ React Native,<br>
 ⚡ NodeJs,<br>
-⚡ Vue.js
+⚡ Vue.js<br>
 ⚡ Bootstrap & Css
 
 <!--
