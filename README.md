@@ -1,13 +1,16 @@
-### Hi there 👋
+Olá eu sou gabriel \ Hi i'm gabriel 👋
+
+Sou desenvolvedor Web e tenho conhecimento nessas techs:
+⚡ Laravel,
+⚡ JAVA,
+⚡ React Native,
+⚡ NodeJs,
+⚡ Vue.js
+⚡ Bootstrap & Css
 
 <!--
-**gabrieldev-7cd/gabrieldev-7cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+✨✨
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
