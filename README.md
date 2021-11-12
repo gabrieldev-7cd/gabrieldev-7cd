@@ -7,7 +7,7 @@ Sou desenvolvedor Web e tenho conhecimento nessas techs:<br>
 💚 Vue.js<br>
 💚 NodeJs.<br>
 
-"A melhor forma de prever o futuro é criá-lo."
-"The Best way to predict the future is create it."
--Alan Curtis Kay
+"A melhor forma de prever o futuro é criá-lo." <br>
+"The Best way to predict the future is create it." <br>
+-Alan Curtis Kay <br>
 ☝️ look for who this guy is!
